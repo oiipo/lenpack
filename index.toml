@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/metal-bundles.pw.toml"
-hash = "9ee59bd7087a869d5953405158e0d016866b1fac00ee33e85a821d25bc3c0308"
+hash = "6abd7257dbed69fa3798a21016d2267e3a2a90acc25b3bcc0018ff9657115995"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
+hash = "cedad7783a39b743dee74a7bb4035dc865e9e85c656468314b642c55f1f0e97d"
 metafile = true
 
 [[files]]
