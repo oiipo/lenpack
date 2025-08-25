@@ -1,0 +1,13 @@
+filename = 'BetterBeacons-NeoForge-1.21.1-2.1.1.jar'
+name = "CERBON's Better Beacons [Forge | Fabric | NeoForge]"
+side = 'both'
+
+[download]
+hash = '036db02525151be4fa0abd3e4f6f58104efd16ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6201865
+project-id = 921066

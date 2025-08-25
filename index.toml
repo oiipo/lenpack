@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/qds-magic-mirror.pw.toml"
+hash = "6536896d052dcf268bdfd94263aafcecb9f17bd1d3fb0a789c8e9052f49821cd"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a5f08589896b9d994fee70bc92f9e67df9121ab533fdb4e0c2b76e7aa87a001c"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true

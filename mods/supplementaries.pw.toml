@@ -1,0 +1,13 @@
+filename = 'supplementaries-1.21-3.4.9-neoforge.jar'
+name = 'Supplementaries'
+side = 'both'
+
+[download]
+hash = 'f919309ab28ed676985402a6855ab05a6ab628955f964904ff598971bebb271be6775dc2d58d0b12e629fa89a2901ef6b2aeac593a774e05ed950359c23ecb38'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/h38aoc8L/supplementaries-1.21-3.4.9-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'fFEIiSDQ'
+version = 'h38aoc8L'

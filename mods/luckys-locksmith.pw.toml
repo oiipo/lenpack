@@ -1,0 +1,13 @@
+filename = 'locksmith-1.0.1.jar'
+name = "Lucky's Locksmith"
+side = 'both'
+
+[download]
+hash = '95a1d61df518645c3f1b366c7a8ddecbcb1aa1b109eaf5c753993fc5ec68707aa5899647db308b485a9059fb3fe7724c1cf259b936d7ab572778a80b1a9ce8c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pntvHkib/versions/loB5GJPr/locksmith-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'pntvHkib'
+version = 'loB5GJPr'

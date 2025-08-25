@@ -1,0 +1,13 @@
+filename = 'displaythat-1.21.1-1.0.0.jar'
+name = 'Display That!'
+side = 'both'
+
+[download]
+hash = 'e5a532be1360824c375b08f3cb2edd9c7d82a16275a2b94f79f5d636ae1ebab9ab868b9baa67ebe95544d37265e593189a0b8d7f501103f14333cff3c4b9e5e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zBnsgnoB/versions/ljbjM4r1/displaythat-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'zBnsgnoB'
+version = 'ljbjM4r1'
