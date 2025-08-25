@@ -406,6 +406,11 @@ hash = "a5f08589896b9d994fee70bc92f9e67df9121ab533fdb4e0c2b76e7aa87a001c"
 metafile = true
 
 [[files]]
+file = "mods/sinytra1343.pw.toml"
+hash = "f9ce2a505c7eb22a4923d57076d6f942b96b26251b070fbca07672333e0f44fd"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "eb70b8534151b7181f9c45f059b0df51d68be48d5a11026d6fae62bde9b698b7"
 metafile = true
