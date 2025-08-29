@@ -176,11 +176,6 @@ hash = "c8bfbe519ff392c0622073ccf6978704d0d4793b20fc49b807c470c2c1f68cb2"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "b03afb243d482a5dac339533c0d3f5a299e39fb0201e291ed81caf6f214b00d2"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "f875588dab7596284ac4a4af91b7d2c650100111c6dfb51c7159ef523536ca65"
 metafile = true
