@@ -236,11 +236,6 @@ hash = "018c7f1828e1d350684036c87f9c8b88041eb38fa5f89753296aedcb3f93ac9c"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "8149cdb52f8798891b5287923f3235258703f72019a1c8f5419e764bbbbfd002"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "7d65677a7217902438defbdb64c924e91f5a119b06ad2a4bcb7e7d1d6dcd42d3"
 metafile = true
@@ -303,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b7d6d4ba658eb8f73508a79b0cff9bd45f265239153a8793c73761024b707030"
-metafile = true
-
-[[files]]
-file = "mods/luckys-locksmith.pw.toml"
-hash = "8e7fbd196598ecad98e329ca2522f14335a76ebc93cf8e8f0e9787b035b504e2"
 metafile = true
 
 [[files]]
@@ -443,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "11551909c394d891c9e76f523887ab606d5210b6e1726aaad9dd424b37326aa9"
 metafile = true
 
 [[files]]
