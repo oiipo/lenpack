@@ -216,6 +216,11 @@ hash = "9c8ff92e8079753446c7cedad47a91a3d5a3de53d1cb01efda4aa550f0bd3de7"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
 metafile = true
@@ -428,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "acca3f6ac6b9a2b12076c0539d19962b45d41da7f53fa8d2ee3feb33a990554a"
+metafile = true
+
+[[files]]
+file = "mods/trimmed.pw.toml"
+hash = "48a3d2303e013e2c5ce4cbfec4d797a0066719434f795f564b7489b63c7b817e"
 metafile = true
 
 [[files]]
